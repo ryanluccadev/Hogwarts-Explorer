@@ -26,29 +26,6 @@ O projeto foi desenvolvido como parte de uma atividade acadêmica, aplicando con
 - **Hogwarts API:** fornecimento dos dados.
 - **localStorage:** armazenamento local em formato JSON.
 
-## 📁 Estrutura do projeto
-
-```text
-Hogwarts-Explorer/
-├── index.html
-├── pages/
-│   ├── personagens.html
-│   ├── feiticos.html
-│   ├── pocoes.html
-│   ├── criaturas.html
-│   └── livros.html
-├── css/
-│   └── style.css
-├── js/
-│   ├── config.js
-│   ├── api.js
-│   ├── cache.js
-│   ├── search.js
-│   ├── modal.js
-│   └── main.js
-└── README.md
-```
-
 ## 🚀 Como executar
 
 1. Clone o repositório:
